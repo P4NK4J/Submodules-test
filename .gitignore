@@ -18,7 +18,7 @@ wp-content/themes/twenty*/
 node_modules/
 
 staging/
-
+dev/
 # ignore log files and databases
 *.log
 *.sql
